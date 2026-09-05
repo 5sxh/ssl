@@ -1,6 +1,6 @@
 🔐 Pure Client-Side SSL Certificate Generator
 
-在线体验https://ssl.shanku.lol/
+在线体验[https://ssl.shanku.lol/](https://ssl.bitecdn.sbs/)
 
 一个基于浏览器原生 Web Crypto API 的 ACME 客户端，无需任何后端服务器，直接在浏览器中申请免费的 SSL 证书（Let's Encrypt, ZeroSSL, Google Trust Services）。
 
